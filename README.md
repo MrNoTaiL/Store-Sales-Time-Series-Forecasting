@@ -31,5 +31,13 @@
   <li>NOTE: Pay special attention to the transferred column. A holiday that is transferred officially falls on that calendar day, but was moved to another date by the government. A transferred day is more like a normal day than a holiday. To find the day that it was actually celebrated, look for the corresponding row where type is Transfer. For example, the holiday Independencia de Guayaquil was transferred from 2012-10-09 to 2012-10-12, which means it was celebrated on 2012-10-12. Days that are type Bridge are extra days that are added to a holiday (e.g., to extend the break across a long weekend). These are frequently made up by the type Work Day which is a day not normally scheduled for work (e.g., Saturday) that is meant to payback the Bridge.</li>
 <li>Additional holidays are days added a regular calendar holiday, for example, as typically happens around Christmas (making Christmas Eve a holiday).</li>
 </ul>
-<h2> Introduction </h2>
-<p>There are question  </p>
+<h2> Preparation Data </h2>
+<p>First step is load all data of stores.csv, train.csv, and transaction.csv. In this data, we dont have missing value or data with a large range. So, you can process and analyze.</p>
+<img1>
+
+<h2>Exploratory Data</h2>
+<p align='justify'>Import attribut for analyze data. First we can see transaction data. The transaction data contain information about date, store_nbr, and transaction. We can analyze average sales per year by grouping from 2013 to 2017</p>
+
+<img2>
+  
+<p>We can see that the average transaction per year has decreased</p>
