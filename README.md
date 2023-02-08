@@ -32,7 +32,7 @@
 <li>Additional holidays are days added a regular calendar holiday, for example, as typically happens around Christmas (making Christmas Eve a holiday).</li>
 </ul>
 <h2> Preparation Data </h2>
-<p>First step is load all data of stores.csv, train.csv, and transaction.csv. In this data, we dont have missing value or data with a large range. So, you can process and analyze.</p>
+<p>First step is load all data of stores.csv, train.csv, and transaction.csv. In this data, we dont have missing value or data with a large range. So, it can be to process and analyze.</p>
 <img1>
 
 <h2>Exploratory Data</h2>
