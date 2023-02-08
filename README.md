@@ -45,12 +45,18 @@
 <img3>
 <img4>
 
-<p align='justify'>The transactions made by store can be seen in this part. For largest transactions occur in number 44,47,46,3. The store_nbr data identifies the store at which the products are sold, So the store with the number 44 is in the city Quito, Pinchincha, type A, cluster 5.</p>
+<p align='justify'>The transactions made by store can be seen in this part. For largest transactions occur in number 44,47,46,3. The store_nbr data identifies the store at which the products are sold. The store with the number 44 is in the city Quito, Pinchincha, type A, cluster 5.</p>
 
 <img5>
 <img6>
 
 <p align='justify'>The train dataset contain id,date,store_nbr,family,sales,and onpromotion. The highest sales occur on family Grocery I at Quito, Pichincha, type D, cluster 13. So, it can be conclude that this area has the highest sales on May 2,2016.</p> 
-<img7> 
+
+  <img7> 
+  
 <p><b>ANOVA</b></p>
-<p align='justify'></p>
+<p align='justify'>Anova is a statistic analytic method. it can use test for difference between more groups. The groups mean treatment type. So, in this section, import attribute for analyze (i.e:  f_oneway). The groups there are AUTOMOTIVE,BABY CARE, BEAUTY, BEVERAGES, BOOKS, BREAD/BAKERY, CELEBRATION,CLEANING, DAIRY, DELI, EGGS,  FROZEN FOODS, GROCERY I, GROCERY II, HARDWARE, HOME AND KITCHEN I, HOME AND KITCHEN II, HOME APPLIANCES	, HOME CARE, LADIESWEAR, LAWN AND GARDEN, LINGERIE, LIQUOR, WINE, BEER, MAGAZINES, MEATS, PERSONAL CARE, PET SUPPLIES, PLAYERS AND ELECTRONICS, POULTRY, PREPARED FOODS, PRODUCE, SCHOOL AND OFFICE SUPPLIES, SEAFOOD. So, first we can group it by family.</p>
+    
+<img8>
+
+ <p align='justify'>The result of oneway f test 92057,93 and p value 0. This result imply each category in family not significantly different based on sales. </p>
