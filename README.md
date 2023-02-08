@@ -60,3 +60,5 @@
 <img8>
 
  <p align='justify'>The result of oneway f test 92057,93 and p value 0. This result imply each category in family not significantly different based on sales. </p>
+  
+<img9>
