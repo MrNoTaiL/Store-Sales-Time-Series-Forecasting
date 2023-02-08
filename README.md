@@ -40,7 +40,12 @@
 
 <img2>
   
-<p align='justify'>We can see that the average transactions per year has been decreased. It happen from 2014 to 2016. The transactions decreased may be due to lack of people buying goods from family. Also, we can see decreased from average transactions per week. In January 6,2013 there has been transactions 1641.09. it means transactions made during the week starting the day after january 6,2013.</p>
+<p align='justify'>We can see that the average transactions per year has been decreased. It happen from 2014 to 2016. The transactions decreased may be due to lack of people buying goods from family. Also, it happens on average transactions per week. For example, in January 6,2013 average transactions amount 1641.09. it means transactions made during the week starting the day after january 6,2013.</p>
   
 <img3>
 <img4>
+
+<p align='justify'>The transactions made by store can be seen in this part. For largest transactions occur in number 44,47,46,3. The store_nbr data identifies the store at which the products are sold, So the store with the number 44 is in the city Quito, Pinchincha.</p>
+
+<img5>
+<img6>
