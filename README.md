@@ -40,7 +40,7 @@
 
 <img2>
   
-<p>We can see that the average transactions per year has been decreased. It happen from 2014 to 2016. The transactions decreased may be due to lack of people buying goods from family. Also, we can see decreased from average transactions per week. In January 6,2013 there has been transactions 1641.09. it means transactions made during the week starting the day after january 6,2013.</p>
+<p align='justify'>We can see that the average transactions per year has been decreased. It happen from 2014 to 2016. The transactions decreased may be due to lack of people buying goods from family. Also, we can see decreased from average transactions per week. In January 6,2013 there has been transactions 1641.09. it means transactions made during the week starting the day after january 6,2013.</p>
   
 <img3>
 <img4>
