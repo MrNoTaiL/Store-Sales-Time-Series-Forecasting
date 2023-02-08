@@ -36,8 +36,11 @@
 <img1>
 
 <h2>Exploratory Data</h2>
-<p align='justify'>Import attribut for analyze data. First we can see transaction data. The transaction data contain information about date, store_nbr, and transaction. We can analyze average sales per year by grouping from 2013 to 2017</p>
+<p align='justify'>Import attribut for analyze data. First we can see transaction data. The transaction data contain information about date, store_nbr, and transaction. We can analyze average sales per year by grouping transactions from 2013 to 2017</p>
 
 <img2>
   
-<p>We can see that the average transaction per year has decreased</p>
+<p>We can see that the average transactions per year has been decreased. It happen from 2014 to 2016. The transactions decreased may be due to lack of people buying goods from family. Also, we can see decreased from average transactions per week. In January 6,2013 there has been transactions 1641.09. it means transactions made during the week starting the day after january 6,2013.</p>
+  
+<img3>
+<img4>
