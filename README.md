@@ -36,7 +36,7 @@
 <img src="https://github.com/MrNoTaiL/kaggle-Store-Sales-Time-Series-Forecasting/blob/main/img/1.jpg"></img>
 
 <h2>Exploratory Data</h2>
-<p align='justify'>Import attribut for analyze data. First we can see transaction data. The transaction data contain information about date, store_nbr, and transaction. We can analyze average sales per year by grouping transactions from 2013 to 2017</p>
+<p align='justify'>Import attribut for analyze data. First we can see transaction data. The transaction data contain information about date, store_nbr, and transaction. We can analyze average sales per year by grouping transactions from 2013 to 2017.</p>
 
 <img src="https://github.com/MrNoTaiL/kaggle-Store-Sales-Time-Series-Forecasting/blob/main/img/2.jpg"></img>
   
@@ -62,3 +62,4 @@
  <p align='justify'>The result of oneway f test 92057,93 and p value 0. This result imply each category in family not significantly different based on sales. </p>
   
 <img src="https://github.com/MrNoTaiL/kaggle-Store-Sales-Time-Series-Forecasting/blob/main/img/9.jpg"></img>
+
